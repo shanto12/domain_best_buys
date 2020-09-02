@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import pandas
 import re
 from find_working_proxy import find_proxies
-from functions import get_house_data
+from extract_data import get_house_data
 
 PROXIES = None
 PROXIES = "TEST"

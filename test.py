@@ -1,4 +1,5 @@
 from json import JSONDecoder
+import pprint
 
 def extract_json_objects(text, decoder=JSONDecoder()):
     """Find JSON objects in text, and yield the decoded JSON data
@@ -21,10 +22,13 @@ def extract_json_objects(text, decoder=JSONDecoder()):
 
 with open('listings.html', 'r') as f:
     demo_text = f.read()
-for result in extract_json_objects(demo_text.split("listingsMap", 1)[1]):
+# for result in extract_json_objects(demo_text.split("listingsMap", 1)[1]):
+for result in extract_json_objects(demo_text):
     if result.get('profiles') :
-        import pprint
         pprint.pprint(result.get('profiles'))
+    elif result:
+        print("NEXT".center(25, "*"))
+        pprint.pprint(result)
 """
 {'action': 'product', 'options': {'foo': 'bar'}}
 {'action': 'review', 'options': {'spam': ['ham', 'vikings', 'eggs', 'spam']}}
