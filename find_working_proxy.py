@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup
 import re
 import pandas
 from multiprocessing import Process, Pool, Event, Value, Manager
+import pprint
+from functions import blockPrint, enablePrint, decorated_print
+print = decorated_print
 
 def find_proxies_nova():
     proxy_list_url = "https://www.proxynova.com/proxy-server-list/"
@@ -111,10 +114,10 @@ def proxy_test(proxies, event, return_dict):
     print(f"Testing: {proxies}")
     try:
         ip_with_proxy = get_my_ip(url, proxies)
-        print(f'IP with proxy:{ip_with_proxy}')
+        # print(f'')
 
         ip_without_proxy = get_my_ip(url)
-        print(f'IP without proxy:{ip_without_proxy}')
+        print(f'IP with proxy:{ip_with_proxy}, IP without proxy:{ip_without_proxy}')
 
         if ip_with_proxy != ip_without_proxy:
             PROXIES = proxies
@@ -129,7 +132,73 @@ def proxy_test(proxies, event, return_dict):
         print(e)
         return False
 
+
+def proxy_test_new(proxies, event, return_dict):
+    global PROXIES
+
+    url = "https://www.myip.com/"
+    print(f"Testing: {proxies}")
+    try:
+        ip_with_proxy = get_my_ip(url, proxies)
+        print(f'IP with proxy:{ip_with_proxy}')
+
+        ip_without_proxy = get_my_ip(url)
+        print(f'IP without proxy:{ip_without_proxy}')
+
+        if ip_with_proxy != ip_without_proxy:
+            PROXIES = proxies
+            proxy_url = list(proxies.items())[0][1]
+            # return_dict["value"] = proxies
+            return_dict[proxy_url] = proxies
+            event.set()
+            print(f"IP test successful. PROXIES set to {PROXIES}")
+            return True
+        else:
+            print("IP test failed")
+            return False
+    except Exception as e:
+        print(e)
+        return False
+
+
 def find_proxies():
+    return find_proxies_all()
+
+
+    # final_proxies_list = []
+    # event = Event()
+    # manager = Manager()
+    # return_dict = manager.dict()
+    #
+    # for find_proxies_method in [find_proxies_spys, find_proxies_nova]:
+    #     if proxies:=find_proxies_method():
+    #         final_proxies_list.extend(proxies)
+    #
+    # process_list = [Process(target=proxy_test, args=(proxies, event, return_dict), daemon=True) for proxies in final_proxies_list]
+    # print(f"Starting Processes. Got {len(process_list)} of processes")
+    # for index, process in enumerate(process_list):
+    #     if not event.is_set():
+    #         process.start()
+    #     else:
+    #         print(f"Found Proxies for: {return_dict['value']}")
+    #         break
+    # else:
+    #     print(f"All processes started")
+    #     print("Executing else")
+    #     while not event.is_set():
+    #         # print(f"Proxies is still not set")
+    #         continue
+    #     print(f"Found Proxies else: {return_dict['value']}")
+    #     for process in process_list:
+    #         process.terminate()
+    #     print("All processes terminated")
+    #     for process in process_list:
+    #         process.join()
+    #     print("All processes joined")
+    #
+    # return return_dict['value']
+
+def find_proxies_all():
     final_proxies_list = []
     event = Event()
     manager = Manager()
@@ -139,29 +208,34 @@ def find_proxies():
         if proxies:=find_proxies_method():
             final_proxies_list.extend(proxies)
 
-    process_list = [Process(target=proxy_test, args=(proxies, event, return_dict), daemon=True) for proxies in final_proxies_list]
+    process_list = [Process(target=proxy_test_new, args=(proxies, event, return_dict), daemon=True) for proxies in final_proxies_list]
     print(f"Starting Processes. Got {len(process_list)} of processes")
     for index, process in enumerate(process_list):
-        if not event.is_set():
-            process.start()
-        else:
-            print(f"Found Proxies: {return_dict['value']}")
-            break
-    else:
-        print(f"All processes started")
-        print("Executing else")
-        while not event.is_set():
-            # print(f"Proxies is still not set")
-            continue
-        print(f"Found Proxies: {return_dict['value']}")
-        for process in process_list:
-            process.terminate()
-        print("All processes terminated")
-        for process in process_list:
-            process.join()
-        print("All processes joined")
+        process.start()
+        # if not event.is_set():
+        #     process.start()
+        # else:
+        #     print(f"Found Proxies for: {return_dict['value']}")
+        #     break
+    # else:
+    print(f"All processes started")
+    print("Executing else")
+    while not event.is_set():
+        # print(f"Proxies is still not set")
+        continue
+    # print(f"Found Proxies else: {return_dict['value']}")
+    print("Found at least one working proxy")
+    # for process in process_list:
+    #     process.join()
+        # print("All processes joined")
+        # for process in process_list:
+        #     process.terminate()
+        # print("All processes terminated")
 
-        return return_dict['value']
+
+
+    return return_dict
+
 
 
 def get_my_ip(url, proxies=None):
@@ -177,5 +251,9 @@ def get_my_ip(url, proxies=None):
 
 
 if __name__ == "__main__":
-    proxies = find_proxies()
-    print(f"Final proxies: {proxies}")
+    # proxies = find_proxies()
+    # print(f"Final proxies: {proxies}")
+    proxies_dict = find_proxies()
+    pprint.pprint(proxies_dict)
+    print(proxies_dict)
+    print(f"Found {len(proxies_dict)} proxies")

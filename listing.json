@@ -1,567 +1,253 @@
-{
-  "2015018996": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Open to Negotiation",
-      "features": {
-        "beds": 3,
-        "baths": 2,
-        "parking": 2,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/Z5OFEuVIUu2sEdKFp8FeHM8L9X0=/305x208/filters:format(jpeg):quality(80):no_upscale()/2015018996_1_1_190820_030143-w3300-h2200"
-      ],
-      "address": {
-        "street": "1415/9 Howard Avenue",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "1415-9-howard-avenue-dee-why-nsw-2099-2015018996"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2015018996,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016381906": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "premiumplus",
-      "promoType": "premiumplus",
-      "price": "Guide $1.65 million",
-      "features": {
-        "beds": 4,
-        "baths": 4,
-        "parking": 3,
-        "propertyType": "House",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/wvyD23NRFJOZaY1YtJ3LHpI72hs=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016381906_15_1_200804_105513-w800-h534"
-      ],
-      "address": {
-        "street": "280B Warringah  Road",
-        "suburb": "Beacon Hill"
-      },
-      "landSize": 0,
-      "url": "280b-warringah-road-beacon-hill-nsw-2100-2016381906"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016381906,
-    "propertyType": "House"
-  },
-  "2016388099": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "premiumplus",
-      "promoType": "premiumplus",
-      "price": "Guide | $2,300,000",
-      "features": {
-        "beds": 3,
-        "baths": 3,
-        "parking": 2,
-        "propertyType": "House",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/lyZ5_C-VpTu737m96UbZ4kwbEm8=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016388099_1_1_200729_082053-w4320-h2880"
-      ],
-      "address": {
-        "street": "11 Clyde Road",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "11-clyde-road-dee-why-nsw-2099-2016388099"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016388099,
-    "propertyType": "House"
-  },
-  "2016388838": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $490,000",
-      "features": {
-        "beds": 1,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/mB-jb0miMMHym_8MHS8K5Lc03w8=/305x208/filters:format(jpeg):quality(80):no_upscale()/13371045_1_1_190804_022456-w3000-h2000"
-      ],
-      "address": {
-        "street": "2/79 Smith Avenue",
-        "suburb": "Allambie Heights"
-      },
-      "landSize": 0,
-      "url": "2-79-smith-avenue-allambie-heights-nsw-2100-2016388838"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016388838,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016392218": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $1,680,000",
-      "features": {
-        "beds": 4,
-        "baths": 2,
-        "parking": 2,
-        "propertyType": "House",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/_EulGJx9GckGozWETUgR5b9PyIQ=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016392218_3_1_200722_040053-w800-h533"
-      ],
-      "address": {
-        "street": "21 Cherry Lane",
-        "suburb": "Warriewood"
-      },
-      "landSize": 0,
-      "url": "21-cherry-lane-warriewood-nsw-2102-2016392218"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016392218,
-    "propertyType": "House"
-  },
-  "2016392219": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Like a 3 bedder",
-      "features": {
-        "beds": 2,
-        "baths": 2,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/mHEfFSGE4DoUCTt_wAvEMGYYQuU=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016392219_2_1_200722_040227-w3000-h2000"
-      ],
-      "address": {
-        "street": "513/1 Saint David Avenue",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "513-1-saint-david-avenue-dee-why-nsw-2099-2016392219"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016392219,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016393128": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "BEACH HOME",
-      "features": {
-        "beds": 2,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "Townhouse",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/mRB6RvoVm7wPfRDQBBukElyDy3g=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016393128_1_1_200722_063509-w1200-h803"
-      ],
-      "address": {
-        "street": "15/30a The Crescent Crescent",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "15-30a-the-crescent-crescent-dee-why-nsw-2099-2016393128"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016393128,
-    "propertyType": "Townhouse"
-  },
-  "2016396513": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $1,450,000",
-      "features": {
-        "beds": 4,
-        "baths": 1,
-        "parking": 2,
-        "propertyType": "House",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/0hkuypR_R-k0aqFIvzJ1Gsa96pM=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016396513_2_1_200804_032907-w3000-h2000"
-      ],
-      "address": {
-        "street": "20 Carolyn Avenue",
-        "suburb": "Beacon Hill"
-      },
-      "landSize": 0,
-      "url": "20-carolyn-avenue-beacon-hill-nsw-2100-2016396513"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016396513,
-    "propertyType": "House"
-  },
-  "2016401585": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Bargain 1 bedder",
-      "features": {
-        "beds": 1,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/TLytSC6c-trL4-aXeKqcl1sK6J0=/305x208/filters:format(jpeg):quality(80):no_upscale()/14221116_1_1_200514_122340-w3000-h2000"
-      ],
-      "address": {
-        "street": "11/31 Gladstone Street",
-        "suburb": "Newport"
-      },
-      "landSize": 0,
-      "url": "11-31-gladstone-street-newport-nsw-2106-2016401585"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016401585,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016418016": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $829,000",
-      "features": {
-        "beds": 2,
-        "baths": 2,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/z2kGKmkEgsPkL8_Mu7ryu2oTwGA=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016418016_1_1_200811_010259-w2500-h1667"
-      ],
-      "address": {
-        "street": "212/1a Delmar Parade",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "212-1a-delmar-parade-dee-why-nsw-2099-2016418016"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016418016,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016418017": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $890,000",
-      "features": {
-        "beds": 2,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/u7xCpqvCiYBsEhlhHWtqIGQ8da8=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016418017_1_1_200804_043515-w1200-h800"
-      ],
-      "address": {
-        "street": "10/10 Avon Road",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "10-10-avon-road-dee-why-nsw-2099-2016418017"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016418017,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016421543": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $595,000",
-      "features": {
-        "beds": 1,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/0R1w2qySg5O6xEWkgLWaYRDExS8=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016421543_1_1_200805_110729-w4320-h2883"
-      ],
-      "address": {
-        "street": "12/36 Waine  Street",
-        "suburb": "Freshwater"
-      },
-      "landSize": 0,
-      "url": "12-36-waine-street-freshwater-nsw-2096-2016421543"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016421543,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016424772": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $1,395,000",
-      "features": {
-        "beds": 2,
-        "baths": 2,
-        "parking": 2,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/73scaP7gGbuzYbse6gMIYe481eo=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016424772_3_1_200806_101302-w800-h533"
-      ],
-      "address": {
-        "street": "30/29 Howard Avenue",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "30-29-howard-avenue-dee-why-nsw-2099-2016424772"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016424772,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016425385": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $885,000",
-      "features": {
-        "beds": 2,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/fQC6iwGuvAVxDDFdJYeO9Mfnopw=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016425385_1_1_200807_020458-w3000-h2000"
-      ],
-      "address": {
-        "street": "23/24 The Crescent",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "23-24-the-crescent-dee-why-nsw-2099-2016425385"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016425385,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016428750": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $720,000",
-      "features": {
-        "beds": 2,
-        "baths": 1,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/hH7C9slcRGjfBJs850R7Zc6xHu8=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016428750_1_1_200811_053800-w4326-h2886"
-      ],
-      "address": {
-        "street": "20/80 Pacific Parade",
-        "suburb": "Dee Why"
-      },
-      "landSize": 0,
-      "url": "20-80-pacific-parade-dee-why-nsw-2099-2016428750"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016428750,
-    "propertyType": "ApartmentUnitFlat"
-  },
-  "2016430909": {
-    "id": 2016430909,
-    "listingType": "listing",
-    "listingModel": {
-      "url": "https://www.domain.com.au/239-17-howard-avenue-dee-why-nsw-2099-2016430909",
-      "images": [
-        "https://rimh2.domainstatic.com.au/va2KHIx5KlajrWhP5Fzmcn_xeB4=/660x440/filters:format(jpeg):quality(80)/2016430909_1_1_200811_034716-w800-h533"
-      ],
-      "price": "Guide $1,295,000",
-      "address": {
-        "street": "239/17 Howard Avenue",
-        "suburb": "Dee Why",
-        "state": "NSW",
-        "postcode": "2099",
-        "lat": -33.7533598,
-        "lng": 151.2881374
-      },
-      "features": {
-        "beds": 3,
-        "baths": 3,
-        "parking": 2,
-        "propertyType": "apartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      }
-    }
-  },
-  "2016433785": {
-    "listingType": "residential",
-    "listingModel": {
-      "promoLevel": "standardpp",
-      "promoType": "standardpp",
-      "price": "Guide $865,000",
-      "features": {
-        "beds": 2,
-        "baths": 2,
-        "parking": 1,
-        "propertyType": "ApartmentUnitFlat",
-        "isRural": false,
-        "landSize": 0,
-        "landUnit": "mÂ²",
-        "isRetirement": false,
-        "isHotProperty": false
-      },
-      "images": [
-        "https://rimh2.domainstatic.com.au/k5exFRRIVUHw6LwzfH22Q-LhF6M=/305x208/filters:format(jpeg):quality(80):no_upscale()/2016433785_1_1_200812_052656-w797-h595"
-      ],
-      "address": {
-        "street": "2/15 Brookvale Avenue",
-        "suburb": "Brookvale"
-      },
-      "landSize": 0,
-      "url": "2-15-brookvale-avenue-brookvale-nsw-2100-2016433785"
-    },
-    "domainWebsiteUrl": "",
-    "id": 2016433785,
-    "propertyType": "ApartmentUnitFlat"
-  }
-}
-
-
-
-
-
-,"otherListingsIds":[2016388099, 2016381906, 2016433785, 2016428750, 2016392218,2016396513, 2016424772, 2016392219, 2015018996, 2016393128,2016418017, 2016425385, 2016418016, 2016421543, 2016388838,2016401585], "address": "239/17 Howard Avenue, Dee Why NSW 2099", "unitNumber": "239", "streetNumber": "17", "street": "Howard Avenue", "suburb": "Dee Why", "postcode": "2099", "stateAbbreviation": "nsw", "projectColor": "", "createdOn": "2020-08-11T13:47:11.73", "modifiedOn": "2020-08-11T13:47:11.76", "projectName": null, "isStandardListing": false, "isArchived": false, "id": 2016430909, "listingId": 2016430909, "listingUrl": "https://www.domain.com.au/239-17-howard-avenue-dee-why-nsw-2099-2016430909", "projectUrl": null, "bigProjectLogo": null, "smallProjectLogo": null, "brandingProjectLogo": null, "brandingProjectColor": null, "footer": {"baseUrl":"https://www.domain.com.au", "suburb": {"name": "Dee Why", "slug": "dee-why-nsw-2099"}, "sale": {"semiDetachedHouses": true, "apartmentsAndUnits": true, "houses": true, "townhouses": true}, "rent": {"studios": true, "apartmentsAndUnits": true, "duplexes": true, "houses": true}, "surroundingSuburbs":[{"name": "Collaroy", "urlSlug": "collaroy-nsw-2097"},{"name": "Cromer", "urlSlug": "cromer-nsw-2099"},{"name": "Curl Curl", "urlSlug": "curl-curl-nsw-2096"},{"name": "Brookvale", "urlSlug": "brookvale-nsw-2100"},{"name": "North Curl Curl", "urlSlug": "north-curl-curl-nsw-2099"},{"name": "Narrabeen", "urlSlug": "narrabeen-nsw-2101"},{"name": "Narraweena", "urlSlug": "narraweena-nsw-2099"},{"name": "Freshwater", "urlSlug": "freshwater-nsw-2096"}]}, "propertyType": "Apartment / Unit / Flat", "beds": 3,"phone": "02 8978 6888", "agencyName": "Novak", "propertyDeveloperName":"Novak", "agencyLogo": "https://rimh2.domainstatic.com.au/I8vOZqSbIWct_B2aB5r6GxP5m2k=/200x70/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/3846/logo_3846.gif?date=637328439541528358", "agencyBanner": "https://rimh2.domainstatic.com.au/lHzoSwzJb9t3C9SowfFxBUosfJk=/624x42/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/Agencys/3846/banner_3846.gif?date=637328439541528358","agencyProfileUrl": "https://www.domain.com.au/real-estate-agencies/novak-3846/", "propertyDeveloperUrl": "https://www.domain.com.au/real-estate-agencies/novak-3846/", "projectLink":"http://www.novak.com.au", "websiteLink": "", "brandingColor": "#000000","brandingAppearance": "dark", "limitedAgencyMode": false, "listingType":"residential", "description":["| Huge 2 storey courtyard apartment", "| Fabulous flow opening to garden", "| Just 1 year young, it's impeccable", "| Feels just like a house with 3 huge bedrooms", "| Sensational finishes + endless storage ","| Master with full ensuite - 5 star hotel finishes", "| Resort complex includes pool, gym \u0026 BBQ area", "| In the heart of buzzing Dee Why", "| Shopping \u0026 transport at your doorstep ", "| Full security + lift access","| Excellent strata and pet friendly", "| Buy this now before we launch to ***", "", "\"All information contained herein is provided by third party sources including but not limited to the owners/developers, valuers and solicitors. Consequently we cannot guarantee its accuracy. Any person using this information should rely on their own enquiries and verify all relevant details for their accuracy, effect and currency.\""], "displayDlfAdFlag": false, "fetchUrl": "https://www.domain.com.au", "headline": "HUGE COURTYARD VILLA WITH GARDEN ACCESS", "tagline": "", "banner": null, "loanfinder": {"baseUrl": "https://home-loans-api.domainloanfinder.com.au", "configName":"dlf-domain-web", "calculators":[
-{"name": "repayments", "propertyPrice": "1295000", "priceSource": "listed", "ingressApi": "https://www.domain.com.au/transactions-users-ingress-api/v1/dlf", "usersApi": "https://www.domain.com.au/transactions-users-api/v1/users/loan-tools/repayments", "loanTerm": "30", "formActionUrl": "https://www.domain.com.au/loanfinder/search/new-home-loan?ltm_source=domain\u0026ltm_medium=referral\u0026ltm_campaign=domain_r_calculator_buy-listing_web\u0026ltm_content=newloan_compare-home-loans", "displayLogo": false, "submitText": "Compare Home Loans", "queryParams": {"ltm_source": "domain", "ltm_medium": "referral", "ltm_campaign":"domain_r_calculator_buy-listing_web", "ltm_content": "newloan_compare-home-loans"}, "experimentName": "buy_listing_page_calculator_repayments", "groupStats": {"listingId": 2016430909, "deviceType":"Desktop"}}, {"name": "upfront-costs", "propertyPrice": "1295000", "ingressApi": "https://www.domain.com.au/transactions-users-ingress-api/v1/dlf", "usersApi": "https://www.domain.com.au/transactions-users-api/v1/users/loan-tools/ufc", "formActionUrl": "https://www.domain.com.au/loanfinder/search/new-home-loan?ltm_source=domain\u0026ltm_medium=referral\u0026ltm_campaign=domain_ufc_calculator_buy-listing_web\u0026ltm_content=newloan_apply-now", "submitText": "Compare Home Loans", "firstHomeBuyer": "firstHomeBuyer", "queryParams": {"ltm_source": "domain","ltm_medium": "referral", "ltm_campaign": "domain_ufc_calculator_buy-listing_web", "ltm_content":"newloan_apply-now"}, "experimentName": "buy_listing_page_calculator_stamp_duty", "groupStats": {"listingId": 2016430909, "deviceType": "Desktop"}}
-]}, "schoolCatchment": {"schools":[
-{"id": "7726", "educationLevel": "primary", "name": "St Kevin's Catholic Primary School", "distance": 241.55961279224206, "state": "NSW", "postCode": "2099", "year": "K-6", "gender": "", "type": "Catholic", "address": "Dee Why, NSW 2099", "url": "http://www.skdydbb.catholic.edu.au", "domainSeoUrlSlug": "st-kevins-primary-school-nsw-2099-7726"},{"id": "612", "educationLevel": "primary", "name": "Dee Why Public School", "distance": 552.0806010989367, "state": "NSW", "postCode": "2099", "year": "U, K-6", "gender": "", "type": "Government", "address": "Dee Why, NSW 2099", "url": "https://deewhy-p.schools.nsw.gov.au", "domainSeoUrlSlug": "dee-why-public-school-nsw-2099-612"},{"id": "7728", "educationLevel": "combined", "name": "St Luke's Grammar School", "distance": 819.1603068315815, "state": "NSW", "postCode": "2099", "year": "K-12", "gender": "", "type": "Private", "address": "Dee Why, NSW 2099", "url": "http://www.stlukes.nsw.edu.au", "domainSeoUrlSlug": "st-lukes-grammar-school-dee-why-nsw-2099-7728"},{"id": "7724", "educationLevel": "combined", "name": "Karuna Montessori School", "distance": 1282.5641891323542, "state": "NSW", "postCode": "2099", "year": "K", "gender": "CoEd", "type": "Private", "address": "Narraweena, NSW 2099", "url": "http://www.karuna.com.au", "domainSeoUrlSlug": "karuna-montessori-school-nsw-2099-7724"},{"id": "7725", "educationLevel": "primary", "name": "St John the Apostle Catholic Primary School", "distance": 1317.2441275640726, "state": "NSW", "postCode": "2099", "year": "K-6", "gender": "", "type": "Catholic", "address": "Narraweena, NSW 2099", "url": "http://www.sjandbb.catholic.edu.au", "domainSeoUrlSlug": "st-john-the-apostle-school-narraweena-nsw-2099-7725"},{"id": "", "educationLevel": "special", "name": "St Lucy's, St John's Narraweena campus", "distance": 1377.417431490919, "state": "NSW", "postCode": "2099", "year": "", "gender": "", "type": "Private", "address": "Narraweena, NSW 2099", "url": "", "domainSeoUrlSlug": "st-lucys-st-johns-narraweena-campus-nsw-2099-52061"},{"id": "7721", "educationLevel": "combined", "name": "Pittwater House Schools", "distance": 1397.2659984259144, "state": "NSW", "postCode": "2097", "year": "K-12", "gender": "", "type": "Private", "address": "Collaroy, NSW 2097", "url": "http://www.pittwaterhouse.com.au/", "domainSeoUrlSlug": "pittwater-house-grammar-school-nsw-2097-7721"},{"id": "7730", "educationLevel": "combined", "name": "St Augustine's College Sydney", "distance": 1631.772780788759, "state": "NSW", "postCode": "2100", "year": "5-12", "gender": "", "type": "Private", "address": "Brookvale, NSW 2100", "url": "http://www.saintaug.nsw.edu.au", "domainSeoUrlSlug": "st-augustines-college-nsw-2100-7730"},{"id": "10826", "educationLevel": "secondary", "name": "Northern Beaches Secondary College Cromer Campus", "distance": 1763.1090153474474, "state": "NSW", "postCode": "2099", "year": "U, 7-12", "gender": "", "type": "Government", "address": "Cromer, NSW 2099", "url": "http://www.cromer.nsw.edu.au", "domainSeoUrlSlug": "northern-beaches-secondary-college-nsw-2099-10826"},{"id": "11599", "educationLevel": "primary", "name": "St John the Baptist Catholic Primary School", "distance": 2457.112058098131, "state": "NSW", "postCode": "2096", "year": "K-6", "gender": "", "type": "Catholic", "address": "Freshwater, NSW 2096", "url": "http://www.sjbfdbb.catholic.edu.au", "domainSeoUrlSlug": "st-john-the-baptist-catholic-primary-school-nsw-2096-11599"},{"id": "7722", "educationLevel": "primary", "name": "St Rose Catholic Primary School", "distance": 2938.0551986269224, "state": "NSW", "postCode": "2097", "year": "K-6", "gender": "", "type": "Catholic", "address": "Collaroy Plateau, NSW 2097", "url": "http://www.srcpdbb.catholic.edu.au", "domainSeoUrlSlug": "st-rose-primary-school-nsw-2097-7722"},{"id": "7719", "educationLevel": "secondary", "name": "Stella Maris College", "distance": 3657.5091512187246, "state": "NSW", "postCode": "2095", "year": "7-12", "gender": "", "type": "Private", "address": "Manly, NSW 2095", "url": "http://stellamaris.nsw.edu.au", "domainSeoUrlSlug": "stella-maris-college-nsw-2095-7719"}
-], "numberOfVisibleSchools": 3, "enableSchoolProfileLink": true, "ads": {"endpoint": "https://ads-api.domain.com.au/v2/ads/list", "params": {"numberOfAds": 2, "environment": "www.domain.com.au", "brand": "Domain", "platform": "Website", "liveRailEnabled": true, "cat": "buy", "cat1": "details", "userType": "buy", "adType": "schoolsponsorship", "adWidth": 1, "adHeight": 1, "locations":[{"state": "NSW", "region": "Sydney Region", "area": "Northern Beaches", "suburb": "Dee Why", "postCode": "2099"}], "deviceType": "Desktop"}}, "addressParts": {"streetNumber": "17", "unitNumber": "239", "street":"Howard Avenue", "suburb": "Dee Why", "stateAbbreviation": "nsw","postcode": "2099", "displayAddress": "239/17 Howard Avenue, Dee Why NSW 2099", "displayType":"fullAddress"}, "adId": "2016430909", "feedbackUrl": "/phoenix/api/school-data/report-error"}, "whatIsNearby": {}, "neighbourhoodInsights": {"age0To19": 0.2382445, "age20To39": 0.322884023, "age40To59":0.291536063, "age60Plus": 0.147335425, "longTermResident": 0.390495867,"owner": 0.5115385, "renter": 0.488461524, "family":0.548453569, "single": 0.4515464, "map": {"mobile": "https://maps.googleapis.com/maps/api/staticmap?size=1000x600\u0026style=element:labels\u0026path=weight:2|fillcolor:0xccf1f0|color:0x33bab5|enc:xj_mEwwkz[qAjQfDpF\\u@dDme@uEg@cAlN\u0026client=gme-fairfax\u0026signature=x31HQUX7DZKTlgKlAinwk7ZkqSo%3D"}, "showIncomeAndExpenses": false}, "locationProfileCards": {"profiles":[
-{"type": "building", "profileUrl": "https://www.domain.com.au/building-profile/17-howard-avenue-dee-why-nsw-2099", "onMarketType": "sale", "address": {"streetNumber": "17","streetName": "Howard", "streetType": "Av", "streetTypeLong":"Avenue", "suburb": "Dee Why", "postcode": "2099","state": "NSW", "coordinates": {"lng": 151.28783, "lat": -33.75293}}, "statistics": {"owners": 6, "tenants": 4, "propertyTypes":[{"type": "Unit", "total": 149, "forSale": 1, "forRent": 0, "soldLast12Months": 4, "rentedLast12Months": 4}, {"type": "Townhouse", "total": 0, "forSale": 0, "forRent": 0, "soldLast12Months": 0, "rentedLast12Months": 0}, {"type": "House", "total": 0, "forSale": 0, "forRent": 0, "soldLast12Months": 0, "rentedLast12Months": 0}, {"type": "Other", "total": 4, "forSale": 0, "forRent": 0, "soldLast12Months": 0, "rentedLast12Months": 0}], "averageOwnerOccupierTenureMonths": 0}, "propertyDetails": {"bedrooms": 3, "bathrooms": 3, "carspaces": 2, "propertyType": "Apartment / Unit / Flat"}}, {"type":"street", "profileUrl": "https://www.domain.com.au/street-profile/howard-avenue-dee-why-nsw-2099", "onMarketType": "sale","address": {"streetName": "Howard", "streetType": "Av", "streetTypeLong": "Avenue", "suburb": "Dee Why", "postcode": "2099", "state": "NSW"}, "statistics":{"owners": 372, "tenants": 297, "propertyTypes":[{"type": "Unit", "total": 778, "forSale": 7, "forRent": 7, "soldLast12Months": 29, "rentedLast12Months": 79}, {"type": "Townhouse", "total": 0, "forSale": 0, "forRent": 0, "soldLast12Months": 0, "rentedLast12Months": 0}, {"type": "House", "total": 26, "forSale": 1, "forRent": 0, "soldLast12Months": 0, "rentedLast12Months": 0}, {"type": "Other", "total": 52, "forSale": 0, "forRent": 2, "soldLast12Months": 1, "rentedLast12Months": 2}], "averageOwnerOccupierTenureMonths": 0}, "similarListingHistory": {"bedrooms": 3, "bathrooms": 3, "carspaces": 2, "propertyType": "Unit", "address": {"flatNumber":"402", "streetNumber": "12"}, "profileUrl": "https://www.domain.com.au/property-profile/402-12-howard-avenue-dee-why-nsw-2099", "date": "2016-01-14T00:00:00"}, "propertyDetails": {"bedrooms": 3, "bathrooms": 3, "carspaces": 2, "propertyType": "Apartment / Unit / Flat"}}
-]}, "suburbInsights": {"beds": 3, "propertyType": "Unit", "suburb": "Dee Why", "suburbProfileUrl": "/suburb-profile/dee-why-nsw-2099", "medianPrice": 1250000, "medianRentPrice": 770, "avgDaysOnMarket": 65, "auctionClearance": 50, "nrSoldThisYear": 29, "entryLevelPrice": 910000, "luxuryLevelPrice": 2750000, "renterPercentage": 0.4786508790814496, "singlePercentage": 0.559499418572457, "demographics": {"population": 21518, "avgAge": "20 to 39", "owners":0.5213491209185505, "renters": 0.4786508790814496, "families": 0.44050058142754306,"singles": 0.559499418572457, "clarification": true}, "salesGrowthList":[{"medianSoldPrice": 890000, "annualGrowth": 0, "numberSold": 28, "year": "2015"}, {"medianSoldPrice": 930000, "annualGrowth": 0.0449438202247191, "numberSold": 27, "year": "2016"}, {"medianSoldPrice": 1128000, "annualGrowth": 0.2129032258064516, "numberSold": 42, "year": "2017"}, {"medianSoldPrice": 1100000, "annualGrowth": -0.024822695035460994, "numberSold": 28, "year": "2018"}, {"medianSoldPrice": 974000, "annualGrowth": -0.11454545454545455, "numberSold": 24, "year": "2019"},{"medianSoldPrice": 1250000, "annualGrowth": 0.28336755646817247, "numberSold": 29, "year": "2020"}], "mostRecentSale": null}, "otherProjects":[], "gallery": {"slides":[
-{"thumbnail": "https://rimh2.domainstatic.com.au/_2qqoAsGkrtyRz2b_c2KLTXzpk0=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_1_1_200811_034716-w800-h533", "images": {"original":{"url": "https://rimh2.domainstatic.com.au/1SoU3f-cUA4tmjZCYvaoyw1kjKE=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_1_1_200811_034716-w800-h533", "width": 800, "height": 533}, "tablet": {"url": "https://rimh2.domainstatic.com.au/OE4DOSJscYZ2xOI44NeFVhIwhlw=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_1_1_200811_034716-w800-h533", "width": 800, "height": 533},"mobile": {"url": "https://rimh2.domainstatic.com.au/fNoPCd-D6pU26-NGl8VT878uMUA=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_1_1_200811_034716-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}, {"thumbnail": "https://rimh2.domainstatic.com.au/X27_FLqQAzMw8zyCFMpqbYLj7ao=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_2_1_200811_034716-w800-h533", "images": {"original": {"url": "https://rimh2.domainstatic.com.au/CdWKnashh794qvjSeR0zszt_1PI=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_2_1_200811_034716-w800-h533", "width": 800, "height": 533},"tablet": {"url": "https://rimh2.domainstatic.com.au/gr-WXam1vDS_Fbvq3a220SvrKHw=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_2_1_200811_034716-w800-h533", "width": 800, "height": 533}, "mobile": {"url": "https://rimh2.domainstatic.com.au/-aWlkr6b1Vz_3BsuCR4K9Lz3AOU=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_2_1_200811_034716-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}, {"thumbnail": "https://rimh2.domainstatic.com.au/ukft4GBx2-gu5LuosNCOCDtGIoA=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_3_1_200811_034716-w800-h533", "images": {"original": {"url": "https://rimh2.domainstatic.com.au/oOoWPX5T8Fm806OLO6HCKSP-R-g=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_3_1_200811_034716-w800-h533", "width": 800, "height": 533}, "tablet": {"url": "https://rimh2.domainstatic.com.au/gainUXWVZXgRLREQJkrBVCKh8R8=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_3_1_200811_034716-w800-h533", "width": 800, "height": 533}, "mobile": {"url": "https://rimh2.domainstatic.com.au/frYVG44O5sal8QRdUtq8wqEWd4E=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_3_1_200811_034716-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}, {"thumbnail": "https://rimh2.domainstatic.com.au/y_FUXgbhYKWDZhDXrHxIurjDW90=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_4_1_200811_034717-w800-h533", "images": {"original": {"url": "https://rimh2.domainstatic.com.au/xm_BoNpBiPNrJv_ZHGE65bFEuac=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_4_1_200811_034717-w800-h533", "width": 800, "height": 533}, "tablet": {"url": "https://rimh2.domainstatic.com.au/hpIjYnqrQaxN_xytNOf6RtS06s8=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_4_1_200811_034717-w800-h533", "width": 800, "height": 533}, "mobile":{"url": "https://rimh2.domainstatic.com.au/WkmKp-AgFaauz_g4NPWB1rEqCHc=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_4_1_200811_034717-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}, {"thumbnail": "https://rimh2.domainstatic.com.au/9xJQrzwht71iH6_QwWZUSs1q-lM=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_5_1_200811_034717-w800-h533", "images": {"original": {"url": "https://rimh2.domainstatic.com.au/eXHk01LU0ON1mQ5pX2fkCcU6kww=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_5_1_200811_034717-w800-h533", "width": 800, "height": 533}, "tablet":{"url": "https://rimh2.domainstatic.com.au/ESy0STTxzGmwI3bXwotBZs8vtE0=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_5_1_200811_034717-w800-h533", "width": 800, "height": 533}, "mobile": {"url": "https://rimh2.domainstatic.com.au/nP8Cb-6TzJrs5HDUCErb8SpNMq4=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_5_1_200811_034717-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"},{"thumbnail": "https://rimh2.domainstatic.com.au/75MfzO1GXMdMeYXu-rOUj53imwo=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_6_1_200811_034717-w800-h533", "images": {"original":{"url": "https://rimh2.domainstatic.com.au/F92cwneUnbXlmP8MEWTE3jnnkSM=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_6_1_200811_034717-w800-h533", "width": 800, "height": 533}, "tablet": {"url": "https://rimh2.domainstatic.com.au/DZZ_5ugUK87FGpN8bm6il_Bhu7g=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_6_1_200811_034717-w800-h533", "width": 800, "height": 533},"mobile": {"url": "https://rimh2.domainstatic.com.au/JkSLCyMxbOlp1VESTx0CcO-sFAI=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_6_1_200811_034717-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}, {"thumbnail": "https://rimh2.domainstatic.com.au/Bq3EF-KIj4R4FjmA8L2mF3VwimI=/fit-in/144x106/filters:format(jpeg):quality(80):no_upscale()/2016430909_7_1_200811_034716-w800-h533", "images": {"original": {"url": "https://rimh2.domainstatic.com.au/h_EcUrarakb5Qyr3f9MZHT9r5zA=/fit-in/1920x1080/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_7_1_200811_034716-w800-h533", "width": 800, "height": 533},"tablet": {"url": "https://rimh2.domainstatic.com.au/MVaFiZVCr2A59wzRP0DWwmwlVoY=/fit-in/1020x1020/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_7_1_200811_034716-w800-h533", "width": 800, "height": 533}, "mobile": {"url": "https://rimh2.domainstatic.com.au/p68WFUwFn9aiJMj4m9A_kUe9_Fs=/fit-in/600x800/filters:format(jpeg):quality(80):no_upscale()/http://b.domainstatic.com.au.s3-website-ap-southeast-2.amazonaws.com/2016430909_7_1_200811_034716-w800-h533", "width": 600, "height": 400}}, "embedUrl": null, "mediaType": "image"}
-]}, "additionalLinks": {"brochureLink": null},"header": {"breadcrumbs":[{"title": "Sale", "url": "/sale/"},{"title": "NSW", "url": "/sale/nsw/"},{"title": "Dee Why", "url": "/sale/dee-why-nsw-2099/"},{"title": "Apartments", "url": "/sale/dee-why-nsw-2099/apartment-unit-flat/"},{"title": "3-Bedrooms", "url": "/sale/dee-why-nsw-2099/apartment-unit-flat/3-bedrooms/"},{"title": "239/17 Howard Avenue, Dee Why NSW 2099", "url": "/239-17-howard-avenue-dee-why-nsw-2099-2016430909"}], "baseUrl": "www.domain.com.au", "signupUrl": "https://www.domain.com.au//authentications/signup", "logoutUrl": "https://www.domain.com.au//authentications/logoff", "loginUrl": "https://www.domain.com.au//authentications/login"}, "listingSummary":{"beds": 3, "baths": 3, "parking": 2, "title": "Guide $1,295,000", "price": "Guide $1,295,000", "address": "239/17 Howard Avenue, Dee Why NSW 2099", "promoType": "platinum", "stats":[{"key": "buildingArea", "value": 124}], "listingType": "rent", "propertyType": "Apartment / Unit / Flat", "status": "new", "mode": "buy", "method": "privateTreaty", "isRural": false, "houses": 0, "showDefaultFeatures": true}, "propertyProfileUrlSlug": "239-17-howard-avenue-dee-why-nsw-2099", "agents":[{"name": "Lisa Novak", "photo": "https://rimh2.domainstatic.com.au/4XpCFjfQKNwHy0IDvX0Zx80LDkc=/120x120/top/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/3846/contact_1357758.jpeg?date=637327570800000000", "phone": "89786833", "mobile": "0488 998 888", "agentProfileUrl": "https://www.domain.com.au/real-estate-agent/lisa-novak-1357758/", "email": "salesenquiries@novak.com.au"}], "inspection": {"inspectionTimes":[{"dayOfWeek": "Saturday", "day": "15", "month": "August", "id": "2020-08-15T12:00:002020-08-15T12:30:00", "openingDateTime": "2020-08-15T12:00:00", "closingDateTime": "2020-08-15T12:30:00", "repeat": false, "time": "12:00pm - 12:30pm"}], "nextInspection": "Saturday, 12:00pm", "displayAddress": "239/17 Howard Avenue, Dee Why NSW 2099", "displayStreetNumber": "17", "displayStreet": "Howard Avenue", "displaySuburb": "Dee Why", "displayState": "NSW", "displayPostcode": "2099", "appointmentOnly": false, "timeZone": "Australia/Sydney"}, "features":["Built-In Wardrobes", "Close to Transport", "Close to Shops", "Pool", "Pets Allowed","Close to Schools", "Ensuite", "Security Access", "Car Parking - Basement"], "structuredFeatures":[{"name": "Built in wardrobes", "category": "Indoor", "source": "advertiser"}, {"name": "Car Parking - Basement", "category": "Other", "source": "advertiser"}, {"name": "Close to schools", "category": "Location", "source": "advertiser"}, {"name": "Close to shops", "category": "Location", "source": "advertiser"}, {"name": "Close to transport", "category": "Location", "source": "advertiser"},{"name": "Ensuite", "category": "Indoor", "source": "advertiser"}, {"name": "Pets Allowed", "category": "Indoor", "source": "advertiser"}, {"name": "Security Access", "category": "Other", "source": "advertiser"}, {"name": "Swimming Pool", "category": "Outdoor", "source": "advertiser"}], "priceGuide": {"agencyName": "Novak", "agents":[{"name": "Lisa Novak", "photo": "https://rimh2.domainstatic.com.au/4XpCFjfQKNwHy0IDvX0Zx80LDkc=/120x120/top/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/3846/contact_1357758.jpeg?date=637327570800000000", "phone": "89786833", "mobile": "0488 998 888", "agentProfileUrl": "https://www.domain.com.au/real-estate-agent/lisa-novak-1357758/", "email": "salesenquiries@novak.com.au"}], "theme": "domain", "estimatedPrice": {"from":null, "to": null}, "suburbMedianPrice": {"medianPrice": null, "medianPropertyType": null, "suburb":"", "source": "", "sourceCollectionDate": null,"sourceDateFrom": null, "sourceDateTo": null}, "comparableData": {"comparableProperty":[]}, "pdfLink": null, "state": "NSW"}, "stampDutyEstimate": null, "map": {"apiKey":"AIzaSyCx5gZA9rTOwBUcbFuiEk12Y87Pn7VKCak", "latitude": -33.7533598, "longitude": 151.2881374,"displayCentreLatitude": null, "displayCentreLongitude": null, "displayCentreAddress":"", "suburbProfileUrl": "https://www.domain.com.au/suburb-profile/dee-why-nsw-2099", "hasDisplayCentre": false,"placesLoggedIn": false, "placesScrollPosition": -1}, "domainSays": {"firstListedDate": "2020-08-11T13:47:11.73", "forSalePropertiesUrl": "/sale/dee-why-nsw-2099/apartment-unit-flat/3-bedrooms/?ssubs=0","lastSoldOnDate": "2019-08-09T00:00:00", "listingMode": "buy", "medianRentPrice":770, "medianSoldPrice": 1250000, "numberSold": 29,"propertyCategoryForSale": 4, "soldPropertiesUrl": "/sold-listings/dee-why-nsw-2099/apartment-unit-flat/3-bedrooms/?ssubs=0", "updatedDate":"2020-08-11T13:47:11.76", "storyPropertyType": "Unit", "propertyBedrooms": 3}, "meta": {"baseUrl": "https://www.domain.com.au/", "loginUrl":"https://www.domain.com.au//authentications/login"}, "enquiryForm": {"enquiryUrl": "/phoenix/api/simple-enquiry","buyerTypes":[]}, "thumborBaseUrl": "", "oneFormOptIn": true,"estimatedDeviceWidth": "1440px", "estimatedDeviceHeight": "1024px", "noAds":false, "fetchAndPublishUserData": true, "shortlistExperimentFlag": true,"isLandEstate": false, "requiresTrackingConsent": false, "placesEnabled":true, "enablePrebid": true, "disablePrebidBookend": false,"displayType": "fullAddress", "backToSearchUrl": "/sale/dee-why-nsw-2099/apartment/", "canGoBackToSearch":false, "primaryPropertyType": "Apartment", "propertyId": "JW-6255-HB","rentalApplicationActive": false, "rentalApplicationData": {"id": null, "status": "", "progress": 0, "url": ""}, "enableDownloadPropertyReport": false, "enableMobileBannerAppDriver":false, "forceMobileBannerAppDriver": false, "enableSuggestedFeatures": true,"enableVerticalGallery": true, "enableHomepassAPIV2": false, "featureFlags":{"disableAdsFlag": false, "displayDlfAdFlag": false, "shortlistExperimentFlag": true, "enableMobileBannerAppDriver": false, "enableSuggestedFeatures": true, "enableAdditionalDescriptionFeature": true, "enableVerticalGallery": true, "enableRetirements": true, "isDlfFunnelModalActive": false, "enableHotProperties": false, "enableListingFeedback": true, "enableBranch": true},"homeLoansApiUrl": "https://home-loans-api.domainloanfinder.com.au", "mixpanelToken": "ab0bde70050c3eabaaf8824402fa01e0", "sessionToken":"d95560d0-3451-4c73-812b-80c72fc98afd", "isRetirement": false, "enableHotProperties": false,"hotPropertiesStates":["SA", "WA", "NT"], "isDlfFunnelModalActive": false, "isDlfFunnelModalOpen": false, "covidInspectionFeaturesEnabled": true, "covidAuctionFeaturesEnabled": true, "shortlistPriceChange": null, "correlationId": "674c1268-afa3-44ca-b4aa-0b66150cabc5"}; window['__domain_group/APP_PAGE'] = 'listing-details'</script></div><div><script defer="defer" src="/phoenix/static/vendors~Pages/error-page~Pages/listing-details~Pages/premarket-landing-page~Pages/search-results.3a197452c48ded886c03.js" type="text/javascript"></script>
-<script defer="defer" src="/phoenix/static/vendors~Pages/listing-details~Pages/premarket-landing-page~Pages/search-results.50eeaa1b1070e25911e7.js" type="text/javascript"></script>
-<script defer="defer" src="/phoenix/static/vendors~Pages/listing-details~Pages/search-results.5d9b270fcf95006cdd28.js" type="text/javascript"></script>
-<script defer="defer" src="/phoenix/static/vendors~Pages/listing-details.9ffe4638cb5cb434167f.js" type="text/javascript"></script>
-<script defer="defer" src="/phoenix/static/Pages/listing-details.4cc09b6cffa7966591aa.js" type="text/javascript"></script>
-<script defer="defer" src="/phoenix/static/main.ffcd7696395b88ac5044.js" type="text/javascript"></script></div><script>var digitalData = {"page": {"pageInfo": {"agencyId": 3846, "author": 3846, "pageId": 2016430909, "pageName": "property details - buy - 2016430909 - 239/17 howard avenue dee why nsw 2099", "effectiveDate": "2020-08-11T13:47:11.76", "issueDate": "2020-08-11T13:47:11.73", "property": {"saleMethod": "privateTreaty","address": "239/17 Howard Avenue, Dee Why NSW 2099", "adtype": "premiumPlus", "agency":"Novak", "agencyId": 3846, "agentNames": "Lisa Novak","bathrooms": 3, "bedrooms": 3, "inspectionsCount":1, "internalArea": 124, "virtualTour": false,"floorPlansCount": 0, "images":["https://bucket-api.domain.com.au/v1/bucket/image/2016430909_1_1_200811_034716-w800-h533", "https://bucket-api.domain.com.au/v1/bucket/image/2016430909_2_1_200811_034716-w800-h533", "https://bucket-api.domain.com.au/v1/bucket/image/2016430909_3_1_200811_034716-w800-h533", "https://bucket-api.domain.com.au/v1/bucket/image/2016430909_4_1_200811_034717-w800-h533", "https://bucket-api.domain.com.au/v1/bucket/image/2016430909_5_1_200811_034717-w800-h533","https://bucket-api.domain.com.au/v1/bucket/image/2016430909_6_1_200811_034717-w800-h533", "https://bucket-api.domain.com.au/v1/bucket/image/2016430909_7_1_200811_034716-w800-h533"], "onlineAuctionAvailable": "None", "parking": 2, "photoCount": 7, "postcode": "2099", "price": "Guide $1,295,000", "primaryPropertyType": "Apartment", "propertyFeatures": "Built-In Wardrobes, Close to Transport, Close to Shops, Pool, Pets Allowed, Close to Schools, Ensuite, Security Access, Car Parking - Basement", "structuredFeatures":[{"name": "Built in wardrobes", "category": "Indoor", "source": "advertiser"}, {"name": "Car Parking - Basement", "category": "Other", "source": "advertiser"}, {"name": "Close to schools", "category": "Location", "source": "advertiser"}, {"name": "Close to shops", "category": "Location", "source": "advertiser"}, {"name": "Close to transport", "category": "Location", "source": "advertiser"},{"name": "Ensuite", "category": "Indoor", "source": "advertiser"}, {"name": "Pets Allowed", "category": "Indoor", "source": "advertiser"}, {"name": "Security Access", "category": "Other", "source": "advertiser"}, {"name": "Swimming Pool", "category": "Outdoor", "source": "advertiser"}], "propertyId": "JW-6255-HB", "secondaryPropertyType": "Apartment / Unit / Flat", "state": "NSW", "suburb": "Dee Why", "videoCount": 0, "x-message": "domain-propertyinfo"}, "suburbId": 13452,"isEmbeddedApp": false, "source": "Unknown", "brand":"domain", "generator": "DO", "sysEnv": "responsive"}, "category": {"primaryCategory": "Buy", "subCategory1":"Property Details", "pageType": "Listing"}, "optimize": {"shortlistExperimentFlag": true}}, "titan": {"adZone": "buy/details", "contentWidth": "", "adKeyValues": {"cat": "buy", "cat1": "details", "ctype":"listing", "e": "www.domain.com.au", "locstate": "nsw","locarea":["northern_beaches"], "locsuburb":["dee_why"], "locpostcode":["2099"], "pageId": 2016430909, "pageName": "property details - buy - 2016430909 - 239/17 howard avenue dee why nsw 2099", "address": "239/17 Howard Avenue, Dee Why NSW 2099", "usertype": "buy", "medianPrice": "1250K", "proptypes":["apartment_unit_flat"]}, "adSite": "DOMAIN.COM.AU", "adSlots":[]}, "adLoader": "prebid", "version": "1.0","events":[]};
-var dataLayer = [digitalData];</script><div><script>var googletag=googletag||{
-};
-googletag.cmd=googletag.cmd||[];
-var pbjs=pbjs||{
-};
-pbjs.que=pbjs.que||[];</script></div><div><script>var titanEnabled = true;
-var titanNativeTest = false;</script></div><script>
-(function(i, s, o, g,r, a, m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)}, i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a, m)
-})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-ga('create', 'UA-22518123-1', 'auto');
-ga('require', 'GTM-T6X56MC');
-ga('set', 'exp', 'DLF Funnel Modal.0'); // isDlfFunnelModalActive
-</script><script>
-(function(w, d, s, l, i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j, f);
-})(window, document,'script', 'dataLayer', 'GTM-M3HVG4');
-</script><script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/assets/5d7212b2ui162d50ac2d4578cd887e']); </script><script src="/assets/5d7212b2ui162d50ac2d4578cd887e" type="text/javascript"></script></body></html>
+{"agents": [{"agentProfileUrl": "https://www.domain.com.au/real-estate-agent/lisa-novak-1357758/",
+             "email": "salesenquiries@novak.com.au",
+             "mobile": "0488 998 888",
+             "name": "Lisa Novak",
+             "phone": "89786833",
+             "photo": "https://rimh2.domainstatic.com.au/tTQ45HPTHd-zZdcr0CBTRmPU8PU=/120x120/top/filters:format(jpeg):quality(80):no_upscale()/https://images.domain.com.au/img/3846/contact_1357758.jpeg?date=637347372143730000"}],
+ "createdOn": "2020-08-11T13:47:11.73",
+ "description": ["| Huge 2 storey courtyard apartment",
+                 "| Fabulous flow opening to garden",
+                 "| Just 1 year young, it's impeccable",
+                 "| Feels just like a house with 3 huge bedrooms",
+                 "| Sensational finishes + endless storage ",
+                 "| Master with full ensuite - 5 star hotel finishes",
+                 "| Resort complex includes pool, gym & BBQ area",
+                 "| In the heart of buzzing Dee Why",
+                 "| Shopping & transport at your doorstep ",
+                 "| Full security + lift access",
+                 "| Excellent strata and pet friendly",
+                 "| Buy this now before we launch to ***",
+                 "",
+                 "\"All information contained herein is provided by third party ",
+                 "sources including but not limited to the owners/developers, ",
+                 "valuers and solicitors. Consequently we cannot guarantee its ",
+                 "accuracy. Any person using this information should rely on ",
+                 "their own enquiries and verify all relevant details for ",
+                 "their accuracy, effect and currency.\""],
+ "domainSays_firstListedDate": "2020-08-11T13:47:11.73",
+ "domainSays_forSalePropertiesUrl": "/sale/dee-why-nsw-2099/apartment-unit-flat/3-bedrooms/?ssubs=0",
+ "domainSays_lastSoldOnDate": "2019-08-09T00:00:00",
+ "domainSays_listingMode": "buy",
+ "domainSays_medianRentPrice": 795,
+ "domainSays_medianSoldPrice": 1291000,
+ "domainSays_numberSold": 29,
+ "domainSays_propertyBedrooms": 3,
+ "domainSays_propertyCategoryForSale": 8,
+ "domainSays_soldPropertiesUrl": "/sold-listings/dee-why-nsw-2099/apartment-unit-flat/3-bedrooms/?ssubs=0",
+ "domainSays_storyPropertyType": "Unit",
+ "domainSays_updatedDate": "2020-08-11T13:47:11.76",
+ "features": ["Built-In Wardrobes",
+              "Close to Transport",
+              "Close to Shops",
+              "Pool",
+              "Pets Allowed",
+              "Close to Schools",
+              "Ensuite",
+              "Security Access",
+              "Car Parking - Basement"],
+ "id": 2016430909,
+ "inspection_appointmentOnly": "False",
+ "inspection_displayAddress": "239/17 Howard Avenue, Dee Why NSW 2099",
+ "inspection_displayPostcode": "2099",
+ "inspection_displayState": "NSW",
+ "inspection_displayStreet": "Howard Avenue",
+ "inspection_displayStreetNumber": "17",
+ "inspection_displaySuburb": "Dee Why",
+ "inspection_inspectionTimes": [{"closingDateTime": "2020-09-05T14:00:00",
+                                 "day": "5",
+                                 "dayOfWeek": "Saturday",
+                                 "id": "2020-09-05T13:30:002020-09-05T14:00:00",
+                                 "month": "September",
+                                 "openingDateTime": "2020-09-05T13:30:00",
+                                 "repeat": "False",
+                                 "time": "1:30pm - 2:00pm"}],
+ "inspection_nextInspection": "Saturday, 1:30pm",
+ "inspection_timeZone": "Australia/Sydney",
+ "listingSummary_address": "239/17 Howard Avenue, Dee Why NSW 2099",
+ "listingSummary_baths": 3,
+ "listingSummary_beds": 3,
+ "listingSummary_houses": 0,
+ "listingSummary_isRural": "False",
+ "listingSummary_listingType": "rent",
+ "listingSummary_method": "privateTreaty",
+ "listingSummary_mode": "buy",
+ "listingSummary_parking": 2,
+ "listingSummary_price": "Guide $1,295,000",
+ "listingSummary_promoType": "platinum",
+ "listingSummary_propertyType": "Apartment / Unit / Flat",
+ "listingSummary_showDefaultFeatures": "True",
+ "listingSummary_stats": [{"key": "buildingArea", "value": 124}],
+ "listingSummary_status": "live",
+ "listingSummary_title": "Guide $1,295,000",
+ "listingType": "residential",
+ "listingUrl": "https://www.domain.com.au/239-17-howard-avenue-dee-why-nsw-2099-2016430909",
+ "locationProfileCards_profiles": [{"address": {"coordinates": {"lat": -33.75293,
+                                                                "lng": 151.28783},
+                                                "postcode": "2099",
+                                                "state": "NSW",
+                                                "streetName": "Howard",
+                                                "streetNumber": "17",
+                                                "streetType": "Av",
+                                                "streetTypeLong": "Avenue",
+                                                "suburb": "Dee Why"},
+                                    "onMarketType": "sale",
+                                    "profileUrl": "https://www.domain.com.au/building-profile/17-howard-avenue-dee-why-nsw-2099",
+                                    "propertyDetails": {"bathrooms": 3,
+                                                        "bedrooms": 3,
+                                                        "carspaces": 2,
+                                                        "propertyType": "Apartment "},
+                                    "similarListingHistory": {"address": {"flatNumber": "239"},
+                                                              "bathrooms": 3,
+                                                              "bedrooms": 3,
+                                                              "carspaces": 2,
+                                                              "date": "2019-08-09T00:00:00",
+                                                              "profileUrl": "https://www.domain.com.au/property-profile/239-17-howard-avenue-dee-why-nsw-2099",
+                                                              "propertyType": "Unit"},
+                                    "statistics": {"averageOwnerOccupierTenureMonths": 0,
+                                                   "owners": 7,
+                                                   "propertyTypes": [{"forRent": 0,
+                                                                      "forSale": 2,
+                                                                      "rentedLast12Months": 3,
+                                                                      "soldLast12Months": 2,
+                                                                      "total": 150,
+                                                                      "type": "Unit"},
+                                                                     {"forRent": 0,
+                                                                      "forSale": 0,
+                                                                      "rentedLast12Months": 0,
+                                                                      "soldLast12Months": 0,
+                                                                      "total": 0,
+                                                                      "type": "Townhouse"},
+                                                                     {"forRent": 0,
+                                                                      "forSale": 0,
+                                                                      "rentedLast12Months": 0,
+                                                                      "soldLast12Months": 0,
+                                                                      "total": 0,
+                                                                      "type": "House"},
+                                                                     {"forRent": 0,
+                                                                      "forSale": 0,
+                                                                      "rentedLast12Months": 0,
+                                                                      "soldLast12Months": 0,
+                                                                      "total": 4,
+                                                                      "type": "Other"}],
+                                                   "tenants": 3},
+                                    "type": "building"},
+                                   {"address": {"postcode": "2099",
+                                                "state": "NSW",
+                                                "streetName": "Howard",
+                                                "streetType": "Av",
+                                                "streetTypeLong": "Avenue",
+                                                "suburb": "Dee Why"},
+                                    "onMarketType": "sale",
+                                    "profileUrl": "https://www.domain.com.au/street-profile/howard-avenue-dee-why-nsw-2099",
+                                    "propertyDetails": {"bathrooms": 3,
+                                                        "bedrooms": 3,
+                                                        "carspaces": 2,
+                                                        "propertyType": "Apartment "},
+                                    "similarListingHistory": {"address": {"flatNumber": "239",
+                                                                          "streetNumber": "17"},
+                                                              "bathrooms": 3,
+                                                              "bedrooms": 3,
+                                                              "carspaces": 2,
+                                                              "date": "2019-08-09T00:00:00",
+                                                              "profileUrl": "https://www.domain.com.au/property-profile/239-17-howard-avenue-dee-why-nsw-2099",
+                                                              "propertyType": "Unit"},
+                                    "statistics": {"averageOwnerOccupierTenureMonths": 0,
+                                                   "owners": 357,
+                                                   "propertyTypes": [{"forRent": 4,
+                                                                      "forSale": 9,
+                                                                      "rentedLast12Months": 77,
+                                                                      "soldLast12Months": 29,
+                                                                      "total": 804,
+                                                                      "type": "Unit"},
+                                                                     {"forRent": 0,
+                                                                      "forSale": 0,
+                                                                      "rentedLast12Months": 0,
+                                                                      "soldLast12Months": 0,
+                                                                      "total": 0,
+                                                                      "type": "Townhouse"},
+                                                                     {"forRent": 0,
+                                                                      "forSale": 1,
+                                                                      "rentedLast12Months": 0,
+                                                                      "soldLast12Months": 0,
+                                                                      "total": 26,
+                                                                      "type": "House"},
+                                                                     {"forRent": 2,
+                                                                      "forSale": 0,
+                                                                      "rentedLast12Months": 1,
+                                                                      "soldLast12Months": 1,
+                                                                      "total": 52,
+                                                                      "type": "Other"}],
+                                                   "tenants": 293},
+                                    "type": "street"}],
+ "map_apiKey": "AIzaSyCx5gZA9rTOwBUcbFuiEk12Y87Pn7VKCak",
+ "map_displayCentreAddress": "",
+ "map_displayCentreLatitude": "None",
+ "map_displayCentreLongitude": "None",
+ "map_hasDisplayCentre": "False",
+ "map_latitude": -33.7533598,
+ "map_longitude": 151.2881374,
+ "map_placesLoggedIn": "False",
+ "map_placesScrollPosition": -1,
+ "map_suburbProfileUrl": "https://www.domain.com.au/suburb-profile/dee-why-nsw-2099",
+ "otherListingsIds": [2016471566,
+                      2016381906,
+                      2016388099,
+                      2016441971,
+                      2016435646,
+                      2016392219,
+                      2015018996,
+                      2016441230,
+                      2016393128,
+                      2016425385,
+                      2016433785,
+                      2016442637,
+                      2016428750,
+                      2016442013],
+ "primaryPropertyType": "Apartment",
+ "suburb": "Dee Why",
+ "suburbInsights_auctionClearance": 47,
+ "suburbInsights_avgDaysOnMarket": 66,
+ "suburbInsights_beds": 3,
+ "suburbInsights_demographics_avgAge": "20 to 39",
+ "suburbInsights_demographics_clarification": "True",
+ "suburbInsights_demographics_families": 0.44050058142754306,
+ "suburbInsights_demographics_owners": 0.5213491209185505,
+ "suburbInsights_demographics_population": 21518,
+ "suburbInsights_demographics_renters": 0.4786508790814496,
+ "suburbInsights_demographics_singles": 0.559499418572457,
+ "suburbInsights_entryLevelPrice": 980000,
+ "suburbInsights_luxuryLevelPrice": 2750000,
+ "suburbInsights_medianPrice": 1291000,
+ "suburbInsights_medianRentPrice": 795,
+ "suburbInsights_mostRecentSale": "None",
+ "suburbInsights_nrSoldThisYear": 29,
+ "suburbInsights_propertyType": "Unit",
+ "suburbInsights_renterPercentage": 0.4786508790814496,
+ "suburbInsights_salesGrowthList": [{"annualGrowth": 0,
+                                     "medianSoldPrice": 900000,
+                                     "numberSold": 25,
+                                     "year": "2015"},
+                                    {"annualGrowth": 0.10666666666666667,
+                                     "medianSoldPrice": 996000,
+                                     "numberSold": 33,
+                                     "year": "2016"},
+                                    {"annualGrowth": 0.16265060240963855,
+                                     "medianSoldPrice": 1158000,
+                                     "numberSold": 38,
+                                     "year": "2017"},
+                                    {"annualGrowth": -0.05008635578583765,
+                                     "medianSoldPrice": 1100000,
+                                     "numberSold": 28,
+                                     "year": "2018"},
+                                    {"annualGrowth": -0.13363636363636364,
+                                     "medianSoldPrice": 953000,
+                                     "numberSold": 25,
+                                     "year": "2019"},
+                                    {"annualGrowth": 0.3546694648478489,
+                                     "medianSoldPrice": 1291000,
+                                     "numberSold": 29,
+                                     "year": "2020"}],
+ "suburbInsights_singlePercentage": 0.559499418572457,
+ "suburbInsights_suburb": "Dee Why",
+ "suburbInsights_suburbProfileUrl": "/suburb-profile/dee-why-nsw-2099",
+ "unitNumber": "239"}
